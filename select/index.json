@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "【MV】グリングリン - 和田たけあき / Green,Green",
+  "base_artist": "和田たけあき",
+  "createdAt": "2026-03-04T01:37:24.555944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グリングリン",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/01_グリングリン_P丸様。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グリングリン",
+      "artist": "和田たけあき",
+      "has_synced": false,
+      "path": "select/pl_01_グリングリン_和田たけあき.txt"
+    }
+  ]
+}
